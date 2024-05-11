@@ -1,5 +1,8 @@
 # Book Recommendation System
 
+![Upload_Book-Recommend_Optimized-as-Hero__1366x434](https://github.com/Asfiya-edu/EDA-Hotel-Analysis-Project/assets/135417984/09e9ec3e-a30c-4687-8aa4-cb9861ba8434)
+
+
 The Book Recommendation System project is all about creating an engaging and personalized experience for users as they navigate through a digital library. By harnessing the power of a Nearest Neighbors model, we've designed a system that offers book recommendations tailored to individual preferences. This interactive platform empowers users to select a book they're interested in, and in return, it dynamically generates suggestions based on similar user tastes and preferences.
 
 In the implementation phase, we carefully selected relevant features for recommendation, with a specific focus on the number of ratings and average ratings for each book. These features were then scaled using MinMaxScaler to ensure scalability and relevance across different datasets. The decision to employ a Nearest Neighbors model was based on its simplicity and effectiveness in identifying similar items based on their feature vectors. By training the model using scaled features, we enabled it to swiftly retrieve the nearest neighbors for any given book, facilitating seamless recommendation generation.
